@@ -1,0 +1,17 @@
+cef5cc4fdf944017993f5716ef817987 *DESCRIPTION
+9f634a0d3381f3fc627204e5468a8284 *LICENSE
+e1e537d9d3a8a7cdebfb37fec99454db *NAMESPACE
+64b354f6c771205d48105dee90089138 *NEWS.md
+f45d0c72dd6423def610e91f94d95c19 *R/aaa.R
+788eb8458f7fbfc5a03cf5f727cbf149 *R/col_to_rgb.R
+4913e629c22f29a6b5c3c3b40d74f612 *man/col_to_int.Rd
+ebfda3b701f9df5b082313604c457f14 *man/col_to_rgb.Rd
+3a68dc41c137ac2146dc2d2cf5864de6 *src/Makevars
+b71a3ef9e38f96af434c0927e4e87ff8 *src/col_to_packed_int.c
+e098f930e9cc56309ebc0e85c1ac0ed5 *src/col_to_rgb.c
+263f3d4072ac0cad25b9d60b583f30ea *src/hash-color.c
+476aec65852d93439b7ad6a5ac4d08dc *src/hash-color.h
+b9f87eb5f84dace883c5b34d16b61ecc *src/init.c
+694ba6163a58701071dfa8f635b96053 *tests/testthat.R
+cb716d02adc2dc73f879f1014892462c *tests/testthat/test-named-colours.R
+0e3f4503018a5c2272fb6c03e0f096f7 *tests/testthat/test-specials.R
